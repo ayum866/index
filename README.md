@@ -74,7 +74,7 @@
             <Textarea name="MESSAGE" placeholder="WHAT TYPE OF CODE YOU WANT ????" required></Textarea>
             <legend>*CAPTCHA</legend>
             <div class="h-captcha" data-sitekey="9664e71c-08be-4792-a926-12186bbe8dd4"></div>
-             <button type="submit" value="SUBMIT">SEND</button>
+             <button type="submit" value="SUBMIT" <a href="https://formsubmit.co/mamlax592@gmail.com"></a>SEND</button>
              <button type="reset" >RESET</button>
           </form>
       </fieldset>     
