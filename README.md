@@ -73,7 +73,7 @@
             <Legend>*MESSAGE</Legend>
             <Textarea name="MESSAGE" placeholder="WHAT TYPE OF CODE YOU WANT ????" required></Textarea>
             <Legend>*CAPTCHA</Legend>
-           <div class="h-captcha" data-sitekey="9664e71c-08be-4792-a926-12186bbe8dd4"></div>
+           <div class="h-captcha" data-sitekey="9664e71c-08be-4792-a926-12186bbe8dd4" required></div>
             <button type="submit">SEND</button>
              <button type="reset" >RESET</button>
              </form>
