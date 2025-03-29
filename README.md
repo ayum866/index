@@ -1,6 +1,4 @@
 # index
-index
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -24,7 +22,6 @@ index
     }
     #fieldset2 {
         border: 1px solid lawngreen;
-        
         margin: auto;
         width: 300px;
     }
@@ -79,10 +76,9 @@ index
             <Legend>*CAPTCHA</Legend>
             <input type="CAPTCHA" name="CAPTCHA" placeholder="3+4=" id="INPUT1" required>
             <HR></HR>
-            <button type="submit" <a href="https://formsubmit.co/mamlax592@gmail.com"></a>SEND</button>
+            <button type="submit">SEND</button>
              <button type="reset" >RESET</button>
-            
-       </form>
+             </form>
       </fieldset>     
 </body>
 </html>
