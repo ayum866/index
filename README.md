@@ -7,6 +7,7 @@
    <style type="TEXT/CSS" >
     body{
         color: lawngreen;
+        background-color: black;
     }
     input {
         background-color: black;
@@ -66,16 +67,12 @@
         <form action="https://formsubmit.co/mamlax592@gmail.com" method="POST">
             <Legend>*NAME</Legend>
             <input type="text" name="name" placeholder="NAME" required>
-            <HR></HR>
             <Legend>*E-MAIL</Legend>
             <input type="email" name="email" placeholder="E-MAIL" required>
-            <HR></HR>
             <Legend>*MESSAGE</Legend>
             <Textarea name="MESSAGE" placeholder="WHAT TYPE OF CODE YOU WANT ????" required></Textarea>
-            <HR></HR>
             <Legend>*CAPTCHA</Legend>
             <input type="CAPTCHA" name="CAPTCHA" placeholder="3+4=" id="INPUT1" required>
-            <HR></HR>
             <button type="submit">SEND</button>
              <button type="reset" >RESET</button>
              </form>
