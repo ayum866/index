@@ -1,6 +1,7 @@
 # index
 <html lang="en">
 <head>
+    <script src="https://hcaptcha.com/1/api.js" async defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
@@ -72,7 +73,7 @@
             <Legend>*MESSAGE</Legend>
             <Textarea name="MESSAGE" placeholder="WHAT TYPE OF CODE YOU WANT ????" required></Textarea>
             <Legend>*CAPTCHA</Legend>
-            <input type="CAPTCHA" name="CAPTCHA" placeholder="3+4=" id="INPUT1" required>
+           <div class="h-captcha" data-sitekey="9664e71c-08be-4792-a926-12186bbe8dd4"></div>
             <button type="submit">SEND</button>
              <button type="reset" >RESET</button>
              </form>
