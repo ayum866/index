@@ -76,7 +76,7 @@
             <HR></HR>
             <legend>*CAPTCHA</legend>
             <div class="h-captcha" data-sitekey="9664e71c-08be-4792-a926-12186bbe8dd4"></div>
-            <button type="submit">SEND</button>
+             <button type="submit" value="SUBMIT">SEND</button>
              <button type="reset" >RESET</button>
           </form>
       </fieldset>     
