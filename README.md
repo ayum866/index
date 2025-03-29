@@ -1,4 +1,4 @@
-# index
+
 <html lang="en">
 <head>
     <script src="https://hcaptcha.com/1/api.js" async defer></script>
@@ -8,7 +8,6 @@
    <style type="TEXT/CSS" >
     body{
         color: lawngreen;
-        background-color: black;
     }
     input {
         background-color: black;
@@ -24,8 +23,8 @@
     }
     #fieldset2 {
         border: 1px solid lawngreen;
-        margin: auto;
         width: 300px;
+        margin: auto;
     }
     h1{
     text-align: center;    
@@ -68,15 +67,18 @@
         <form action="https://formsubmit.co/mamlax592@gmail.com" method="POST">
             <Legend>*NAME</Legend>
             <input type="text" name="name" placeholder="NAME" required>
+            <HR></HR>
             <Legend>*E-MAIL</Legend>
             <input type="email" name="email" placeholder="E-MAIL" required>
+            <HR></HR>
             <Legend>*MESSAGE</Legend>
             <Textarea name="MESSAGE" placeholder="WHAT TYPE OF CODE YOU WANT ????" required></Textarea>
-            <Legend>*CAPTCHA</Legend>
-           <div class="h-captcha" data-sitekey="9664e71c-08be-4792-a926-12186bbe8dd4" required></div>
-            <button type="submit"<a href="https://formsubmit.co/mamlax592@gmail.com"></a>>SEND</button>
+            <HR></HR>
+            <legend>*CAPTCHA</legend>
+            <div class="h-captcha" data-sitekey="9664e71c-08be-4792-a926-12186bbe8dd4"></div>
+            <button type="submit">SEND</button>
              <button type="reset" >RESET</button>
-             </form>
+          </form>
       </fieldset>     
 </body>
 </html>
